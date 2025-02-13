@@ -1,0 +1,19 @@
+Number of disciplines: 3
+Name: Economic Theory
+Course: 1
+Group: eeb4
+Lectures: 36
+Seminars: 36
+Exam-form: exam
+Name: Psychology
+Course: 2
+Group: eeb3
+Lectures: 17
+Seminars: 17
+Exam-form: test
+Name: Math
+Course: 2
+Group: it13
+Lectures: 32
+Seminars: 32
+Exam-form: exam
